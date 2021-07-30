@@ -8,7 +8,6 @@ def word_replace(text: str, mapper: map) -> (bool, str):
     not_safe = False
     safe_text = text
     for k in mapper:
-        # print(k)
         if safe_text.find(k) >= 0:
             not_safe = True
             safe_text = safe_text.replace(k, mapper[k])
@@ -18,7 +17,7 @@ def word_replace(text: str, mapper: map) -> (bool, str):
 
 if __name__ == "__main__":
     print("opening dict ... ")
-    with open("../sensitive_word_replacer.json", encoding="utf8") as fp:
+    with open("../sensitive_word_replace_english.json", encoding="utf8") as fp:
         json_data = json.load(fp)
         # print(json_data)
     print("checking markdown notes ... ")
