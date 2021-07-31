@@ -4,7 +4,7 @@ import json
 import os
 
 
-def word_replace(text: str, mapper: map) -> (bool, str):
+def word_replace(text: str, mapper: dict) -> (bool, str):
     not_safe = False
     safe_text = text
     for k in mapper:
