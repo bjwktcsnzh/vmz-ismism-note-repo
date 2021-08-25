@@ -32,5 +32,7 @@
 
 * gitee的仓库不见了？
 
-> 监管压力，总是被夹掉，已迁移至github。
+> 监管压力，总是被夹掉，已迁移至[github](https://github.com/tcsnzh/vmz-ismism-note-repo)。
+>
+> 原仓库仍然保留于[gitee](https://gitee.com/tcsn_site/vmz-ismism)。
 
