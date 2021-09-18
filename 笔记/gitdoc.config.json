@@ -1,0 +1,597 @@
+{
+  "title": "主义主义",
+  "introduce": "课程作者: b站 未明子。笔记由网友整理。",
+  "concealLabels": ["政治哲学"],
+  "itemProperties": {
+    "10001": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1gW411a7yC"],
+      "introduce": "掌握基本的哲学问题域和方法论，懂得用哲学的简单方法分析社会实际。 对传统教科书、世俗文化具有颠覆性的系统性入门，入门后可以选择自己喜欢的领域进展下去，研究令这世界最一流头脑困惑的一流问题。 希望中国年轻人的思维永远不要被庸俗、低下、愚蠢的要素所填充。 最重要的是，在这里，你将会领略到一个哲学家的第一人称运思。",
+      "labels": ["哲学"]
+    },
+    "10002": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1gW411a7se"],
+      "introduce": "批判教科书体系内所谓的本体论框架。",
+      "labels": ["哲学", "唯物主义", "唯心主义"]
+    },
+    "10003": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1gW411a7Mo"],
+      "introduce": "大概了解一下何为形而上学、辩证法。",
+      "labels": ["哲学", "辩证法", "形而上学"]
+    },
+    "10004": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1cb411U7Gr"],
+      "introduce": "主义主义-ISMism。全新的哲学课程，用公式化的方式理解哲学 一分钟掌握一种主义的内涵",
+      "labels": ["哲学", "科学实在论"]
+    },
+    "10005": {
+      "srcUrl": ["https://www.bilibili.com/video/BV15y4y1k72L"],
+      "introduce": "【辩证法小甜点】什么是真正的辩证法？",
+      "labels": ["哲学", "辩证法"]
+    },
+    "10006": {
+      "srcUrl": ["https://www.bilibili.com/video/BV12a4y1s78w"],
+      "introduce": "简单来说就是帮你打开自己心灵的开发者选项。",
+      "labels": ["哲学", "劝学"]
+    },
+    "10007": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1KA411j7BY"],
+      "introduce": "【辩证法小甜点】",
+      "labels": ["哲学", "辩证法"]
+    },
+    "10008": {
+      "srcUrl": ["https://www.bilibili.com/video/BV13D4y1R7uv"],
+      "introduce": "【辩证法小甜点】",
+      "labels": ["哲学", "辩证法"]
+    },
+    "10009": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1Ji4y1L7f7"],
+      "introduce": "【辩证法小甜点】所谓的“开心”，就是要打开第一人称、主观主义的执念，对于心灵的束缚，就能获得快乐。",
+      "labels": ["哲学", "辩证法"]
+    },
+    "10010": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1Sy4y1B7X6"],
+      "introduce": "【辩证法小甜点】",
+      "labels": ["哲学", "辩证法"]
+    },
+    "10011": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1gi4y1L75b"],
+      "introduce": "【辩证法小甜点】Every thing about sex, but exclude sex, sex about power",
+      "labels": ["哲学", "辩证法"]
+    },
+    "10012": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1Sr4y1w7Dt"],
+      "introduce": "【辩证法小甜点】",
+      "labels": ["哲学", "辩证法"]
+    },
+    "10013": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1sK4y1E7LR"],
+      "introduce": "【辩证法小甜点】",
+      "labels": ["哲学", "辩证法"]
+    },
+    "10014": {
+      "srcUrl": [
+        "https://www.bilibili.com/video/BV1X5411L7Yy",
+        "https://www.bilibili.com/video/BV1qa411c7EU"
+      ],
+      "introduce": "【辩证法小甜点】未来是完全确定的吗",
+      "labels": ["哲学", "辩证法"]
+    },
+    "10016": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1mr4y1w7B1"],
+      "introduce": "【辩证法小甜点】黑格尔主义、马克思主义的自由",
+      "labels": ["哲学", "辩证法"]
+    },
+    "10017": {
+      "srcUrl": ["https://www.bilibili.com/video/BV16r4y1w7oY"],
+      "introduce": "【辩证法小甜点】",
+      "labels": ["哲学", "辩证法"]
+    },
+    "10018": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1cf4y1q7ay"],
+      "introduce": "【辩证法小甜点】真正的现实主义已经包含了理想主义。 ",
+      "labels": ["哲学", "辩证法"]
+    },
+    "10019": {
+      "srcUrl": ["https://www.bilibili.com/video/BV115411L7zJ"],
+      "introduce": "【辩证法小甜点】",
+      "labels": ["哲学", "辩证法", "阿尔都塞"]
+    },
+    "10020": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1gA411x76y"],
+      "introduce": "教科书的”基本问题“，不是哲学的基本问题，而是立场/价值观的问题。",
+      "labels": ["哲学", "存在主义"]
+    },
+    "10021": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1ba411w7jr"],
+      "introduce": "究竟为什么：存在者存在；”无“存在；无却不存在？",
+      "labels": ["哲学", "存在主义"]
+    },
+    "10022": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1dv411r7bz"],
+      "introduce": "为什么这个世界必须“有东西”？",
+      "labels": ["哲学", "存在主义"]
+    },
+    "10023": {
+      "srcUrl": [
+        "https://www.bilibili.com/video/BV1Wz4y1y7vF",
+        "https://www.bilibili.com/video/BV1Fa411w7si"
+      ],
+      "introduce": "谬误之路",
+      "labels": ["哲学", "存在主义"]
+    },
+    "10025": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1HK411V7cC"],
+      "introduce": "无不可能让你体验到",
+      "labels": ["哲学", "存在主义"]
+    },
+    "10026": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1fZ4y137oS"],
+      "introduce": "为什么有”有“——这个问题被问出来，构成了这个问题本身。",
+      "labels": ["哲学", "存在主义"]
+    },
+    "10027": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1hf4y1q7e3"],
+      "introduce": "不懂规矩 | 墨守成规 | 不讲规矩",
+      "labels": ["哲学", "符号学", "齐泽克"]
+    },
+    "10028": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1fK4y1Z7vH"],
+      "introduce": "让自己心安理得地昏睡着",
+      "labels": ["哲学", "符号学", "意识形态"]
+    },
+    "10029": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1fa4y1p7wv"],
+      "introduce": "带有精密电子工程学特性的“缸中之脑”能实现吗？",
+      "labels": ["哲学", "科学实在论"]
+    },
+    "10030": {
+      "srcUrl": [
+        "https://www.bilibili.com/video/BV1Zi4y1V77m",
+        "https://zhuanlan.zhihu.com/p/109326349",
+        "https://www.bilibili.com/video/BV1Pr4y1c7ZA",
+        "https://zhuanlan.zhihu.com/p/109339628",
+        "https://www.bilibili.com/video/BV1Yz4y1k7DS",
+        "https://zhuanlan.zhihu.com/p/109484437",
+        "https://www.bilibili.com/video/BV12Z4y1G74S",
+        "https://zhuanlan.zhihu.com/p/109329838"
+      ],
+      "introduce": "普通人会得的4种虚无主:宇宙悲观主义(理工科) | 认知无我论(程序员、艺术、设计) | 社会行为主义(互联网) | 解构建构论 (文科社科) 。",
+      "labels": ["哲学", "虚无主义"]
+    },
+    "10034": {
+      "srcUrl": [
+        "https://www.bilibili.com/video/BV1PA41147dV",
+        "https://www.bilibili.com/video/BV1Li4y1j7rD",
+        "https://www.bilibili.com/video/BV17Z4y1G7si"
+      ],
+      "introduce": "两种主体？主体和实体的关系？",
+      "labels": ["哲学", "主体"]
+    },
+    "10037": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1w54y167pA"],
+      "introduce": "可以自学一些广义相对论还有电脑软硬件知识以帮助理解。还有海德格尔的ontological，在这里可以当作德国观念论传统的transcendental来对待，就是模拟生成整个世界的框架系统的意思。",
+      "labels": ["哲学", "主体", "齐泽克"]
+    },
+    "10038": {
+      "srcUrl": [
+        "https://www.bilibili.com/video/BV1dv411t7KC",
+        "https://www.bilibili.com/video/BV1yV411a7ed"
+      ],
+      "introduce": "现代哲学史开篇。使用电脑和爱情作为比喻讲述笛卡尔主义。",
+      "labels": ["哲学", "现代哲学史", "笛卡尔", "笛卡尔主义"]
+    },
+    "10039": {
+      "srcUrl": ["https://www.bilibili.com/video/BV17K4y1f7jC"],
+      "introduce": "斯宾诺莎: 你只是windows系统的一部分（一个小文件夹）而已",
+      "labels": ["哲学", "现代哲学史", "斯宾诺莎", "静谧主义"]
+    },
+    "10041": {
+      "srcUrl": [
+        "https://www.bilibili.com/video/BV1Ft4y1Y7nM",
+        "https://www.bilibili.com/video/BV1xZ4y1G78r"
+      ],
+      "introduce": "莱布尼兹: 每个人（甚至每条小猫小狗、每个石头）都有一个自己的血轮眼，给自己投射月读。",
+      "labels": ["哲学", "现代哲学史", "莱布尼兹", "单子论"]
+    },
+    "10043": {
+      "srcUrl": [
+        "https://www.bilibili.com/video/BV1pa4y1W7LU",
+        "https://www.bilibili.com/video/BV1yy4y167AX",
+        "https://www.bilibili.com/video/BV1pr4y1c7pX"
+      ],
+      "introduce": "休谟怀疑客户端无权限，康德竟然制作Mod试探服务器底线！",
+      "labels": [
+        "哲学",
+        "现代哲学史",
+        "康德",
+        "理性主义",
+        "经验主义",
+        "休谟",
+        "经验主义怀疑论"
+      ]
+    },
+    "10046": {
+      "srcUrl": [
+        "https://www.bilibili.com/video/BV12z4y1k7jb",
+        "https://kdocs.cn/l/ceM9ASWN032N"
+      ],
+      "introduce": "费希特架设私服，根本没有服务端！",
+      "labels": ["哲学", "现代哲学史", "费希特", "唯我论", "否定哲学"]
+    },
+    "10047": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1qK411V7wh"],
+      "introduce": "谢林云服务",
+      "labels": ["哲学", "现代哲学史", "谢林", "同一哲学", "无我论", "否定哲学"]
+    },
+    "10048": {
+      "srcUrl": ["https://www.bilibili.com/video/BV14r4y1c7cS"],
+      "introduce": "黑格尔插上杀毒U盘，系统清理中。",
+      "labels": [
+        "哲学",
+        "现代哲学史",
+        "黑格尔",
+        "后现代哲学",
+        "否定哲学",
+        "主体"
+      ]
+    },
+    "10049": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1QD4y1X76m"],
+      "introduce": "大他者 | 原初能指 | 主人能指 | 幻想公式。视频里的提到的“性化公式”其实不是拉康的性化公式（性化公式有四个，利用了非-全的逻辑），而只是欲望辩证法下的幻想结构的公式。 里面讲错了很多地方，不必在意，大概是那个结构，够用就好。",
+      "labels": ["哲学", "精神分析", "符号学"]
+    },
+    "10050": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1Y54y167bQ"],
+      "introduce": "大他者是精神病人所看成的主体",
+      "labels": ["哲学", "精神分析", "符号学"]
+    },
+    "10051": {
+      "srcUrl": [
+        "https://www.bilibili.com/video/BV1tA41147TJ",
+        "https://www.bilibili.com/video/BV1Dt4y1Y7S2"
+      ],
+      "introduce": "符号学缝合术 : 左翼 | 自由 | 保守",
+      "labels": ["哲学", "政治哲学"],
+      "conceal": true
+    },
+    "10053": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1GV411h7EU"],
+      "introduce": "拉康修炼手册",
+      "labels": ["哲学", "精神分析"]
+    },
+    "10054": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1et4y1Y7u4"],
+      "introduce": "左翼 | 自由 | 保守 | 马克思主义",
+      "labels": ["哲学", "政治哲学"],
+      "conceal": true
+    },
+    "10055": {
+      "srcUrl": ["https://www.bilibili.com/video/BV14Z4y1g77b"],
+      "introduce": "自爱 -> 爱本身 -> 邪恶",
+      "labels": ["哲学", "辩证法"]
+    },
+    "10056": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1Wy4y1S7o8"],
+      "introduce": "偶然与必然",
+      "labels": ["哲学", "辩证法"]
+    },
+    "10057": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1FV411h7mT"],
+      "introduce": "性善性恶，人类意识的起源。",
+      "labels": ["哲学", "辩证法"]
+    },
+    "10058": {
+      "srcUrl": ["https://www.bilibili.com/video/BV16V41187b1"],
+      "introduce": "高中哲学课白上了。",
+      "labels": ["哲学", "唯物主义"]
+    },
+    "10059": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1Wv411b76D"],
+      "introduce": "宇宙论 | 本体论 | 认识论 | 目的论",
+      "labels": ["哲学"]
+    },
+    "10065": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1sK4y1L7ae"],
+      "introduce": "“审美符号”到“文化产业”——美的再生产",
+      "labels": ["哲学", "爱欲经济学", "拉康", "符号学"]
+    },
+    "10066": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1Qy4y1m7EB"],
+      "introduce": "剖析了支配人类社会发展的一个侧面",
+      "labels": ["哲学", "爱欲经济学", "符号学"]
+    },
+    "10073": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1ja4y1p7Pv"],
+      "introduce": "四个class的划分",
+      "labels": ["哲学", "政治哲学"],
+      "conceal": true
+    },
+    "10084": {
+      "srcUrl": ["https://www.bilibili.com/video/BV17o4y1f71c"],
+      "introduce": "【普遍与特殊——思想发展史】关于辩证法、形而上学、辩证唯物主义、历史唯物主义、斯大林、马克思、康德、黑格尔、费希特、齐泽克、拉康、阿尔都塞、欲望、秩序、个人、社会，你要了解的一切，都在这个概念对子里。",
+      "labels": [
+        "哲学",
+        "政治哲学",
+        "辩证法",
+        "形而上学",
+        "辩证唯物主义",
+        "历史唯物主义",
+        "斯大林",
+        "马克思",
+        "康德",
+        "黑格尔",
+        "费希特",
+        "齐泽克",
+        "拉康",
+        "阿尔都塞"
+      ]
+    },
+    "10089": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1TK4y1W7fY"],
+      "introduce": "",
+      "labels": ["哲学", "爱欲经济学", "齐泽克"]
+    },
+    "10091": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1Ra4y1n78V"],
+      "introduce": "",
+      "labels": ["哲学", "哲学四则运算"]
+    },
+    "10092": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1vv411x7qo"],
+      "introduce": "",
+      "labels": ["哲学", "哲学四则运算"]
+    },
+    "10093": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1Yr4y1T7ha"],
+      "introduce": "",
+      "labels": ["哲学", "哲学四则运算"]
+    },
+    "10094": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1vV411t7Kt"],
+      "introduce": "",
+      "labels": ["哲学", "哲学四则运算", "唱歌"]
+    },
+    "10096": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1rK4y1W7Jm"],
+      "introduce": "",
+      "labels": ["哲学", "唯物主义", "唯心主义", "科学实在论"]
+    },
+    "10102": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1t54y1s7am"],
+      "introduce": "",
+      "labels": ["哲学", "精神分析"]
+    },
+    "10106": {
+      "srcUrl": [
+        "https://www.bilibili.com/video/BV1vh41127dg",
+        "https://www.bilibili.com/read/cv12262904"
+      ],
+      "introduce": "",
+      "labels": ["哲学", "答水友问"]
+    },
+    "10114": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1hf4y1k7sX"],
+      "introduce": "(无声小碟)",
+      "labels": ["哲学", "主义主义", "A1", "B2", "C1"]
+    },
+    "10127": {
+      "srcUrl": ["https://www.bilibili.com/video/BV12U4y1s7qw"],
+      "introduce": "",
+      "labels": ["哲学", "主义主义", "A1", "B3", "C2", "D2"]
+    },
+    "10135": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1rX4y1N7Wh"],
+      "introduce": "",
+      "labels": ["哲学"]
+    },
+    "10137": {
+      "srcUrl": ["https://www.bilibili.com/video/BV15z4y1U7Z1"],
+      "introduce": "",
+      "thanks": ["字幕制作者（中文（中国））： 书国沉迷众(b站id 32918476)"],
+      "labels": ["哲学"]
+    },
+    "10146": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1dA411T7xD"],
+      "introduce": "",
+      "labels": ["哲学", "爱欲经济学", "主义主义", "A1", "B3", "C4", "D3"]
+    },
+    "10164": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1mh411r7ZR"],
+      "introduce": "",
+      "thanks": [
+        "字幕制作者（中文（中国））： 修正药业首席研发(b站id 1812088304)"
+      ],
+      "labels": ["哲学", "符号学"]
+    },
+    "10166": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1Lh411k7M4"],
+      "introduce": "",
+      "labels": ["哲学", "爱欲经济学", "主义主义", "A1", "B4", "C2", "D4"]
+    },
+    "10179": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1P54y1a7DR"],
+      "introduce": "",
+      "thanks": ["字幕制作者（中文（中国））： 书国沉迷众(b站id 32918476)"],
+      "labels": ["哲学", "主义主义", "A1", "B4", "C4", "D4"]
+    },
+    "10313": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1wq4y177u6"],
+      "introduce": "",
+      "labels": ["哲学", "主义主义", "A2", "B4", "C4", "D4"]
+    },
+    "10316": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1py4y137ag"],
+      "introduce": "",
+      "labels": ["哲学", "主义主义", "A1", "B2", "C2"]
+    },
+    "10317": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1dU4y1L7n8"],
+      "introduce": "",
+      "labels": ["哲学", "主义主义", "A1", "B2", "C2", "D1"]
+    },
+    "10318": {
+      "srcUrl": ["https://www.bilibili.com/video/BV17q4y177QH"],
+      "introduce": "",
+      "labels": ["哲学", "主义主义", "A1", "B2", "C2", "D2"]
+    },
+    "10319": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1Hg411G7C3"],
+      "introduce": "",
+      "labels": ["哲学", "主义主义", "A1", "B2", "C2", "D3"]
+    },
+    "10325": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1mw411Z7eX"],
+      "introduce": "",
+      "labels": ["哲学", "主义主义", "A1", "B2", "C3", "D3"]
+    },
+    "10326": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1zv411p71H"],
+      "introduce": "",
+      "labels": ["哲学", "主义主义", "A1", "B2", "C3", "D4"]
+    },
+    "10327": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1GM4y1u7jq"],
+      "introduce": "",
+      "labels": ["哲学", "主义主义", "A1", "B2", "C4"]
+    },
+    "10328": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1uM4y1u7EL"],
+      "introduce": "",
+      "labels": ["哲学", "主义主义", "A1", "B2", "C4", "D1"]
+    },
+    "10329": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1iU4y1573U"],
+      "introduce": "",
+      "labels": ["哲学", "主义主义", "A1", "B2", "C4", "D2"]
+    },
+    "10340": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1U5411T7tV"],
+      "introduce": "",
+      "labels": ["社会观察", "996"]
+    },
+    "10343": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1py4y1M7L8"],
+      "introduce": "",
+      "labels": ["社会观察", "996", "政治经济学"]
+    },
+    "10349": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1LX4y1P7ee"],
+      "introduce": "",
+      "labels": ["社会观察", "法律"]
+    },
+    "10405": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1xU4y1J7iL"],
+      "introduce": "",
+      "labels": ["哲学", "辩证法", "黑格尔", "主义主义", "A3", "B2", "C4"]
+    },
+    "10406": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1qq4y1p7Hi"],
+      "introduce": "刻意用Logics这个复数形式来充当单数，因为它原初分裂。",
+      "labels": [
+        "哲学",
+        "辩证法",
+        "黑格尔",
+        "逻辑学",
+        "主义主义",
+        "A3",
+        "B2",
+        "C4",
+        "D1"
+      ]
+    },
+    "10409": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1UQ4y1f7So"],
+      "introduce": "",
+      "labels": [
+        "哲学",
+        "辩证法",
+        "阿尔都塞",
+        "主义主义",
+        "A3",
+        "B2",
+        "C4",
+        "D4"
+      ]
+    },
+    "10423": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1e64y1s7ms"],
+      "introduce": "",
+      "labels": ["哲学", "分析哲学"]
+    },
+    "10427": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1vq4y1M7z4"],
+      "introduce": "【主义主义】何为永恒轮回、权力意志、爱命运——尼采的同一生存论（3-3-3）",
+      "labels": [
+        "哲学",
+        "尼采",
+        "主义主义",
+        "唯意志论",
+        "存在主义",
+        "生存论",
+        "永恒轮回",
+        "权力意志",
+        "A3",
+        "B3",
+        "C3"
+      ]
+    },
+    "10428": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1sM4y1L73D"],
+      "introduce": "为什么尼采的哲学是错的，但仍是有用的——试图用尼采伦理学的瑕疵掩盖其本体论致命错误的舍斯托夫哲学：斗争的生存论（3-3-3-1）",
+      "labels": [
+        "哲学",
+        "尼采",
+        "主义主义",
+        "舍斯托夫",
+        "存在主义",
+        "唯意志主义",
+        "A3",
+        "B3",
+        "C3",
+        "D1"
+      ]
+    },
+    "10429": {
+      "srcUrl": ["https://www.bilibili.com/video/BV17g41157y9"],
+      "introduce": "【主义主义】为什么尼采主义的姿态很容易走向反智和庸俗，尼采主义先驱：雅各比——直接生存论（3-3-3-2）",
+      "labels": [
+        "哲学",
+        "尼采",
+        "主义主义",
+        "观念轮",
+        "生存论",
+        "存在主义",
+        "雅各比",
+        "A3",
+        "B3",
+        "C3",
+        "D2"
+      ]
+    },
+    "10434": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1k64y1e7Be"],
+      "introduce": "",
+      "labels": [
+        "哲学",
+        "辩证唯物主义",
+        "存在论",
+        "存在主义",
+        "本体论",
+        "马克思",
+        "海德格尔"
+      ]
+    },
+    "10438": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1Lg411L7yx"],
+      "introduce": "为什么世界上会有一群人而不是只有我自己，为什么唯我论必然是错的（哪怕是最高级版本）——先验主观主义 vs 辩证唯物主义",
+      "labels": [
+        "哲学",
+        "唯物主义",
+        "辩证唯物主义",
+        "辩证法",
+        "唯我论",
+        "主观主义"
+      ]
+    }
+  }
+}
