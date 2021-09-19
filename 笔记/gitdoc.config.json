@@ -414,6 +414,21 @@
       "thanks": ["字幕制作者（中文（中国））： 书国沉迷众(b站id 32918476)"],
       "labels": ["哲学", "主义主义", "A1", "B4", "C4", "D4"]
     },
+    "10311": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1SN411Z7Ru"],
+      "introduce": "【主义主义】原来“形而上学”才是真正的辩证法：论辩证法的片面、静止、只有量变和二元对立——正统辩证唯物主义（2-4-4-2）",
+      "labels": [
+        "哲学",
+        "主义主义",
+        "形而上学",
+        "辩证唯物主义",
+        "辩证法",
+        "A2",
+        "B4",
+        "C4",
+        "D2"
+      ]
+    },
     "10313": {
       "srcUrl": ["https://www.bilibili.com/video/BV1wq4y177u6"],
       "introduce": "",
@@ -478,6 +493,24 @@
       "srcUrl": ["https://www.bilibili.com/video/BV1LX4y1P7ee"],
       "introduce": "",
       "labels": ["社会观察", "法律"]
+    },
+    "10388": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1qv411n768"],
+      "introduce": "【主义主义】先验观念论（3-2-2-2）——不用再读康德了，读了谢林25岁写的这本书，直接上手观念论和辩证法吧",
+      "labels": [
+        "哲学",
+        "主义主义",
+        "A3",
+        "B2",
+        "C2",
+        "D2",
+        "康德",
+        "哲学史",
+        "谢林",
+        "德国哲学",
+        "费希特",
+        "先验哲学"
+      ]
     },
     "10405": {
       "srcUrl": ["https://www.bilibili.com/video/BV1xU4y1J7iL"],
@@ -581,6 +614,23 @@
         "海德格尔"
       ]
     },
+    "10435": {
+      "srcUrl": ["https://www.bilibili.com/video/BV16L4y1a76p"],
+      "introduce": "",
+      "labels": [
+        "哲学",
+        "主义主义",
+        "A3",
+        "B3",
+        "C3",
+        "D4",
+        "辩证唯物主义",
+        "存在主义",
+        "存在主义危机",
+        "原子化主体",
+        "现代性"
+      ]
+    },
     "10438": {
       "srcUrl": ["https://www.bilibili.com/video/BV1Lg411L7yx"],
       "introduce": "为什么世界上会有一群人而不是只有我自己，为什么唯我论必然是错的（哪怕是最高级版本）——先验主观主义 vs 辩证唯物主义",
@@ -592,6 +642,11 @@
         "唯我论",
         "主观主义"
       ]
+    },
+    "10446": {
+      "srcUrl": ["https://www.bilibili.com/video/BV1cf4y1H7Ci"],
+      "introduce": "【主义主义】符号学（3-4）——现代哲学的“合”法性来源：将有限性坚持到底的绝对中介，符号",
+      "labels": ["哲学", "哲学史", "符号", "结构主义", "符号学"]
     }
   }
 }

@@ -31,7 +31,25 @@
     }
   ],
   "contributionStatisticsRule": "video source v1.0",
+  "contribution": [],
   "farawayContribution": [
+    {
+      "personId": "sky92",
+      "commit": {
+        "10311": {
+          "allVideo": "1h5m49s"
+        },
+        "10388": {
+          "allVideo": "56m3s"
+        },
+        "10435": {
+          "allVideo": "25m59s"
+        },
+        "10446": {
+          "allVideo": "45m36s"
+        }
+      }
+    },
     {
       "personId": "czhenqaz",
       "commit": {
@@ -536,6 +554,5 @@
         }
       }
     }
-  ],
-  "contribution": []
+  ]
 }
