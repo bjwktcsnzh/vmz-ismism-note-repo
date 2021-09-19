@@ -28,11 +28,25 @@
     {
       "id": "hugoz",
       "nickname": "HugoZ"
+    },
+    {
+      "id": "qxsayou",
+      "urls": ["https://github.com/qxsayou"],
+      "nickname": "qxsayou"
     }
   ],
   "contributionStatisticsRule": "video source v1.0",
   "contribution": [],
   "farawayContribution": [
+    {
+      "personId": "qxsayou",
+      "commit": {
+        "20000": {}
+      },
+      "otherInfo": {
+        "comment": "促进了 ISMISM归纳表.md 的改版。issue url : https://github.com/tcsnzh/vmz-ismism-note-repo/issues/3"
+      }
+    },
     {
       "personId": "sky92",
       "commit": {
