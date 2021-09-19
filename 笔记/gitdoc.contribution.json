@@ -1,0 +1,541 @@
+{
+  "person": [
+    {
+      "id": "sky92",
+      "urls": ["https://gitee.com/sky92archangel"],
+      "nickname": "sky92"
+    },
+    {
+      "id": "czhenqaz",
+      "urls": ["https://gitee.com/Czhenqaz"],
+      "nickname": "臻zhen"
+    },
+    {
+      "id": "wxc11168",
+      "urls": ["https://gitee.com/wxc11168"],
+      "nickname": "wxc11168"
+    },
+    {
+      "id": "yanlgd",
+      "urls": ["https://gitee.com/yanlgd"],
+      "nickname": "YanLGD"
+    },
+    {
+      "id": "hbbloveybb",
+      "urls": ["https://gitee.com/hbbloveybb"],
+      "nickname": "淮北北"
+    },
+    {
+      "id": "hugoz",
+      "nickname": "HugoZ"
+    }
+  ],
+  "contributionStatisticsRule": "video source v1.0",
+  "farawayContribution": [
+    {
+      "personId": "czhenqaz",
+      "commit": {
+        "10434": {
+          "textAddNumber": 44
+        },
+        "10438": {
+          "allVideo": "28m26s"
+        },
+        "10429": {
+          "allVideo": "58m45s"
+        },
+        "10427": {
+          "allVideo": "50m29s"
+        }
+      }
+    },
+    {
+      "personId": "sky92",
+      "commit": {
+        "10018": {
+          "textAddNumber": 44
+        },
+        "10434": {
+          "allVideo": "44m15s"
+        }
+      }
+    },
+    {
+      "personId": "sky92",
+      "commit": {
+        "10004": {
+          "textAddNumber": 116,
+          "textModifyCount": 2,
+          "commentAddNumber": 147,
+          "commentModifyCount": 7
+        },
+        "10446": {
+          "allVideo": "1h13m29s"
+        },
+        "10008": {
+          "textAddNumber": 44
+        },
+        "10146": {
+          "allVideo": "1h42m3s"
+        },
+        "10166": {
+          "allVideo": "2h19m50s"
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": ["339570c7b4844a5362a17fbf6ca411cb104f24b3"]
+        }
+      }
+    },
+    {
+      "personId": "czhenqaz",
+      "commit": {
+        "10428": {
+          "allVideo": "50m56s"
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": ["7098f5af4df70ace8390f151c40ef052f84dd998"]
+        }
+      }
+    },
+    {
+      "personId": "wxc11168",
+      "commit": {
+        "10009": {
+          "textModifyCount": 5
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": ["c36c566a4c23d138f43004c3c34f251ae60c3e92"]
+        }
+      }
+    },
+    {
+      "personId": "yanlgd",
+      "commit": {
+        "10329": {
+          "allVideo": "48m15s"
+        },
+        "10328": {
+          "allVideo": "40m26s"
+        },
+        "10327": {
+          "allVideo": "42m6s"
+        },
+        "10326": {
+          "allVideo": "58m"
+        },
+        "10325": {
+          "allVideo": "1h18m30s"
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": [
+            "3ee1042d3bf9b0bbbcdf6005133171f971fe9ab0",
+            "89956d685a4e395955a63088b8e0275927ff2bd0",
+            "021b22d3c45cc73bb56b290f99a5206984994727",
+            "ffb12ec3d752027acb8680e69b2658fae45e5b02",
+            "3391efc24289e12c7dbad6852be9f38665b994d2"
+          ]
+        }
+      }
+    },
+    {
+      "personId": "wxc11168",
+      "commit": {
+        "10009": {
+          "textAddNumber": 950,
+          "commentAddNumber": 68
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": ["5193c24bcb943fa314ef75c275943818b8d10a6d"]
+        }
+      }
+    },
+    {
+      "personId": "hbbloveybb",
+      "commit": {
+        "20000": {
+          "textAddNumber": 3072
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": ["794336bd4fbe41ed1e5f3056e841239ca89e1e46"]
+        }
+      }
+    },
+    {
+      "personId": "sky92",
+      "commit": {
+        "10089": {
+          "allVideo": "1h4m52s"
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": ["2326434fc46afe249e714067a64d2b4fd4743313"]
+        }
+      }
+    },
+    {
+      "personId": "czhenqaz",
+      "commit": {
+        "10409": {
+          "allVideo": "43m49s"
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": ["ed70d695e2a6990e54e1700a1d0d59d4315218e9"]
+        }
+      }
+    },
+    {
+      "personId": "yanlgd",
+      "commit": {
+        "10315": {
+          "allVideo": "45m1s"
+        },
+        "10316": {
+          "allVideo": "50m33s"
+        },
+        "10317": {
+          "allVideo": "52m37s"
+        },
+        "10318": {
+          "allVideo": "49m18s"
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": [
+            "ae3123729a786ee11de1775a252719b16c112fb0",
+            "9bb62d8ed2951c6a8709613d9539b34cf07e0487",
+            "6b8803c116bda09b3b1d551c99310a4b43de42bf",
+            "d90400bebfac2efa076fbed4a9b83779e90e736c"
+          ]
+        }
+      }
+    },
+    {
+      "personId": "sky92",
+      "commit": {
+        "10066": {
+          "allVideo": "1h13m20s"
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": ["2bad6e8798716deb7d337a7bf5ea485218898dd3"]
+        }
+      }
+    },
+    {
+      "personId": "yanlgd",
+      "commit": {
+        "10313": {
+          "allVideo": "1h3m47s"
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": ["fabb51eecc5b30ecf8c822d8e766502bf0a68902"]
+        }
+      }
+    },
+    {
+      "personId": "sky92",
+      "commit": {
+        "10065": {
+          "allVideo": "32m"
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": ["39a5fa8f22999265c6dbb454b81eb7efc3f26005"]
+        }
+      }
+    },
+    {
+      "personId": "czhenqaz",
+      "commit": {
+        "10406": {
+          "allVideo": "1h6m23s"
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": ["e6200fb37dcdc3236d5ddc61efb278c97fff154b"]
+        }
+      }
+    },
+    {
+      "personId": "sky92",
+      "commit": {
+        "10114": {
+          "allVideo": "15m"
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": ["1b21183a0aa8194151a218ff9d7118ed138e60b3"]
+        }
+      }
+    },
+    {
+      "personId": "sky92",
+      "commit": {
+        "10095": {
+          "allVideo": "7m"
+        },
+        "10096": {
+          "allVideo": "22m"
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": ["d0b0ee839ed92bb5a7028b169bd389269071dc14"]
+        }
+      }
+    },
+    {
+      "personId": "sky92",
+      "commit": {
+        "10093": {
+          "allVideo": "13m"
+        },
+        "10094": {
+          "allVideo": "12m"
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": ["fb37b7202a4e24a0ae0fa1c2c0b50bf816efd9b6"]
+        }
+      }
+    },
+    {
+      "personId": "sky92",
+      "commit": {
+        "10091": {
+          "allVideo": "12m"
+        },
+        "10092": {
+          "allVideo": "15m"
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": ["a18066e726c1205d3ff42908bb2ed2e011bf47cb"]
+        }
+      }
+    },
+    {
+      "personId": "sky92",
+      "commit": {
+        "10029": {
+          "textAddNumber": 80,
+          "commentAddNumber": 109
+        },
+        "10073": {
+          "allVideo": "15m"
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": ["80083cda5e39fb0bc21d0eac8d0f10cfe651a0b3"]
+        }
+      }
+    },
+    {
+      "personId": "czhenqaz",
+      "commit": {
+        "10405": {
+          "allVideo": "36m"
+        }
+      }
+    },
+    {
+      "personId": "sky92",
+      "commit": {
+        "20000": {
+          "textModifyCount": 2
+        },
+        "10135": {
+          "allVideo": "31m"
+        },
+        "10013": {
+          "textAddNumber": 290
+        },
+        "10179": {
+          "allVideo": "36m"
+        },
+        "10001": {
+          "textAddNumber": 23,
+          "commentAddNumber": 1231
+        },
+        "10025": {
+          "textAddNumber": 271
+        },
+        "10340": {
+          "textModifyCount": 3
+        },
+        "10349": {
+          "allVideo": "36m"
+        },
+        "10004": {
+          "textAddNumber": 216
+        },
+        "10006": {
+          "textAddNumber": 267
+        },
+        "10084": {
+          "allVideo": "79m"
+        },
+        "10008": {
+          "textAddNumber": 73,
+          "commentAddNumber": 20
+        },
+        "10009": {
+          "textAddNumber": 181
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": ["871747a0d2559f584c5cb52b4d91015cfc382fe5"]
+        }
+      }
+    },
+    {
+      "personId": "sky92",
+      "commit": {
+        "10164": {
+          "allVideo": "53m"
+        },
+        "10127": {
+          "allVideo": "1h2m"
+        },
+        "10340": {
+          "allVideo": "30m"
+        },
+        "10343": {
+          "allVideo": "19m"
+        },
+        "10106": {
+          "allVideo": "52m"
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": ["f84fdff1bf1e1677b6e874b61e79fc64c4593bfb"]
+        }
+      }
+    },
+    {
+      "personId": "hugoz",
+      "commit": {
+        "10137": {
+          "allVideo": "33m23s"
+        }
+      },
+      "otherInfo": {
+        "remoteGitRepoCommit": {
+          "repoType": "gitee",
+          "owner": "tcsn_site",
+          "repoName": "vmz-ismism",
+          "branch": "master",
+          "commitHash": ["1cbbfa1232354d0d0c3e47ad088e1ea668413bac"]
+        }
+      }
+    }
+  ],
+  "contribution": []
+}

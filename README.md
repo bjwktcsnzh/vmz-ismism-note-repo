@@ -29,3 +29,9 @@
 > 这是因为要规避关键字，在`util`目录下有`sensitive_word_replace_english.json`这个替换列表，以及`py_script/word_replace.py`这个替换脚本。
 >
 > 你可以下载到本地，倒着替换回去看。
+=======
+### 正在研发桌面端小工具中
+
+> qq群（技术）：959977533
+
+>>>>>>> 3cca85ff16a3f05b7a2486c3d8231fa0bb39ad03
