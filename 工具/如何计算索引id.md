@@ -2,6 +2,41 @@
 
 ## 通过计算b站页数
 
+### 一步到胃
+
+1. 打开该网页：https://c.runoob.com/compile/9/
+2. 将以下代码粘贴至左侧窗口：
+
+```python
+#!/usr/bin/python
+# Write Python 3 code in this online editor and run it.
+
+""" 设置页数 """ 
+_pages = 17
+
+""" 设置最后一页的视频数 """
+_itemInLastPage = 27
+
+
+def r(x,ix,y=_pages,iy=_itemInLastPage,t=30):
+    return (y-x-1)*t+ix+iy
+
+def locate(r,y=_pages,iy=_itemInLastPage,t=30):
+    result = divmod(r-iy,t)
+    return y-result[0]-1, result[1] 
+
+""" 小贴士: print()的效果就是打印结果 """
+""" 输出第__页的从后往前第__个视频序号为几 """
+print(r(4,13))
+
+""" 输出第__个视频在第几页的从后往前第几个 """
+print(locate(400));
+```
+
+3. 点击左上角 “点击运行”按钮。
+
+### 原理
+
 假如一个视频在第 x 页 **从后往前** 数第 $i_x$​​​ 个；总共有y页视频；每页有 t 个视频 *(b站网页端 t=30)* ；最后一页的视频数是 $i_y$​​​​​。
 
 那么该视频是第 r 个视频。$ r = (y-x-1)\times t + i_x + i_y $​
