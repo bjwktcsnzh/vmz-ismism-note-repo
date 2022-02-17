@@ -33,11 +33,27 @@
       "id": "qxsayou",
       "urls": ["https://github.com/qxsayou"],
       "nickname": "qxsayou"
+    },{
+      "id": "Desperatefish",
+      "urls": ["https://github.com/Desperatefish"],
+      "nickname": "Desperatefish"
     }
   ],
   "contributionStatisticsRule": "video source v1.0",
   "contribution": [],
   "farawayContribution": [
+    {
+      "personId": "Desperatefish",
+      "commit": {
+        "10004": {
+          "textAddNumber": 29
+        }
+      },
+      "otherInfo": {
+        "comment": "增加了对科学实在论的解释",
+        "hash": "798837d8ba35d3d726794f2c0e21f557202a3f7c"
+      }
+    },
     {
       "personId": "qxsayou",
       "commit": {
